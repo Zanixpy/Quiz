@@ -1,0 +1,24 @@
+[
+    
+    {
+        "question":"De quel anime provient cette musique ?",
+        "reponse":[{"ans":"Bleach","img":"/Theme/Musique/img/Anime/Bleach.jpg","trueans":"false"},{"ans":"Angel Beats","img":"/Theme/Musique/img/Anime/Angel.jpg","trueans":"false"},{"ans":"Inazuma Eleven","img":"/Theme/Musique/img/Anime/Inazuma.jpg","trueans":"true"}]
+    }
+,
+
+
+    {   
+        "question":"Quel est l'artiste de cette musique?",
+        "reponse":[{"ans":"Darlène Fella","img":"/Theme/Musique/img/Artistes/Fella.jpg","trueans":"true"},{"ans":"David Okit","img":"/Theme/Musique/img/Artistes/David.jpg","trueans":"false"},{"ans":"Precilia Manene","img":"/Theme/Musique/img/Artistes/Manene.jpg","trueans":"false"}]
+    }  
+,
+
+
+    {
+        "question":"Quel est le titre de cette musique de Zan?",
+        "reponse":[{"ans":"Last","img":"/Theme/Musique/img/Zan/Last.jpg","trueans":"false"},{"ans":"Yoasobi X Fan Club","img":"/Theme/Musique/img/Zan/FanClub.jpg","trueans":"true"},{"ans":"Allo","img":"/Theme/Musique/img/Zan/LaPage.jpg","trueans":"false"}]
+
+    }
+
+
+] 

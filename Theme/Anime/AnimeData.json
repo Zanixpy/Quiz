@@ -1,0 +1,24 @@
+[
+    
+        {
+            "question":"Dans Naruto, quel est le nom du démon renard scellé en Naruto ?",
+            "reponse":[{"ans":"Shukaku","img":"/Theme/Anime/img/Naruto/Shukaku.jpg","trueans":"false"},{"ans":"Kurama","img":"/Theme/Anime/img/Naruto/Kurama.jpg","trueans":"true"},{"ans":"Matatabi","img":"/Theme/Anime/img/Naruto/Matatabi.jpg","trueans":"false"}]
+        }
+    ,
+
+    
+        {   
+            "question":"Dans Tokyo Ghoul, comment s’appelle l'organisation qui traque les goules ?",
+            "reponse":[{"ans":"Pierrot","img":"/Theme/Anime/img/TK/Pierrot.jpg","trueans":"false"},{"ans":"Aogiri Tree","img":"/Theme/Anime/img/TK/Aogiri.jpg","trueans":"false"},{"ans":"CCG","img":"/Theme/Anime/img/TK/CCG.jpg","trueans":"true"}]
+        }  
+    ,
+    
+    
+        {
+            "question":"Dans Shingeki no Kyojin (SNK), quel est le véritable nom du Titan Colossal ?",
+            "reponse":[{"ans":"Bertolt Hoover","img":"/Theme/Anime/img/SNK/Bertolt.jpg","trueans":"true"},{"ans":"Reiner Braun","img":"/Theme/Anime/img/SNK/Reiner.jpg","trueans":"false"},{"ans":"Zeke Yeager","img":"/Theme/Anime/img/SNK/Zeke.jpg","trueans":"false"}]
+
+        }
+    
+
+]
